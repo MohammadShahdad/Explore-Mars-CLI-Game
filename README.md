@@ -3,7 +3,7 @@
 ## Introduction
 **Explore Mars**  is a single player game with the purpose of this game being to find all the gold pieces on Mars. The map of Mars is a custom grid that can be set by the player as per their choice. Once you collect all the gold pieces, you win the game. The lesser amount of commands you take to collect all the gold pieces, the higher your score will be.
 
-This was my first project using C++ and I started making this game for to help out a friend with his assignment.
+This was my first project using C++ and I started making this game to help out a friend with his assignment.
 This was the first time I built an algorithm to populate the Mars map grid with gold in a way that there is always a possible route through which winning the game is possible.
 
 ## Features
