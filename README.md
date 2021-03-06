@@ -14,16 +14,14 @@ This was the first time I built an algorithm to populate the Mars map grid with 
 
 # Install
 
-* Run the main.cpp file in a C++ compiler of your choice to start the game.
+* Use the binaries attached in the releases.
+* Alternatively you can run the main.cpp file in a C++ compiler of your choice to start the game.
 
 # Play Instructions
 
 * As the Rover moves across the map, it would be able to read the three cells just in front of it.
-
 * There are hills on the map which prevent the Rover from moving to those cells.
-
 * There are traps on the map, if the Rover moves to any of those cells, the mission is failed.
-
 * The lesser amount of commands you use to find all the gold pieces, the higher your score will be.
 
 # Images
